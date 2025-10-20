@@ -43,8 +43,8 @@ Bee using React. Here are the requirements:
 - The page has two sections: controls on the left and scoreboard on the
   right.
 - The controls section has an input for players to enter words, either
-  by typing on their keyboard or clicking on the letters in the
-  honeycomb.
+  by typing on their keyboard when the input is focused, or clicking on
+  the letters in the honeycomb.
 - To submit a word, players can either click on a "Submit" button or
   press on the "Return" key. If the word is too short or not in the
   words list, an error is shown.
